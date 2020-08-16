@@ -1,0 +1,20 @@
+.m {
+text-align: center;
+font-size: 65px;
+background-color: hotpink;
+}
+
+.item { 
+    border-bottom: dotted 3px gray
+    
+}
+
+.color {
+    border-bottom: dotted 3px gray
+}
+
+.t1 {
+    background: linear-gradient(transparent 50%,rgb(167, 93, 136))
+    display: inline-block;
+
+}
